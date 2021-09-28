@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey! I am Nitin Kumar. 👋
 
 <!--
 **nitzz8872/nitzz8872** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
